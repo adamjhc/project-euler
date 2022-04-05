@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "p0001_multiples-of-3-or-5",
+    "p0002_even-fibonacci-numbers",
+    "p0006_sum-square-difference"
+]
